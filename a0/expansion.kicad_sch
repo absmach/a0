@@ -4509,6 +4509,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB" "C429957"
+			(at 113.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "817bf566-78c7-4e61-ba25-e6af8342aefb")
 		)
@@ -5070,6 +5079,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB" "C429957"
+			(at 110.49 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "97abb1cc-91c3-4f96-b818-081bcfdfed4b")
 		)
@@ -5356,6 +5374,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB" "C429957"
+			(at 78.74 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "3fb74e02-6143-4cb8-8f0d-3505a1f4c16e")
 		)
@@ -5436,6 +5463,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 76.2 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C429957"
 			(at 76.2 62.23 0)
 			(effects
 				(font

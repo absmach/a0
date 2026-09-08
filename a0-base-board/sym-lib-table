@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "BEAGLEBONEBLACK")(type "KiCad")(uri "${KIPRJMOD}/modules/BEAGLEBONEBLACK.kicad_sym")(options "")(descr ""))
-  (lib (name "TF-SMD_TF-15-15")(type "KiCad")(uri "${KIPRJMOD}/modules/TF-SMD_TF-15-15.kicad_sym")(options "")(descr ""))
-)

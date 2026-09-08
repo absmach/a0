@@ -52,7 +52,7 @@ For setup instructions, pinouts, and integration guides, see the full documentat
 
 - 🏢 **Smart Buildings**: Connect heat and water meters via Wireless M-Bus for real-time monitoring.
 - 🏭 **Industrial IoT**: Collect and transmit sensor data in secure and bandwidth-constrained environments.
-- 🌍 **Smart Cities**: Enable large-scale metering infrastructure with NB-IoT and LoRa connectivity.
+- 🌍 **Smart Cities**: Enable large-scale metering infrastructure with NB-IoT and sub-GHz connectivity.
 - 🔐 **Secure Data Acquisition**: Ensure encrypted communication from edge devices to the cloud.
 
 ## 🔧 Hardware Highlights

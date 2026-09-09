@@ -5,7 +5,7 @@ a0 is a modular **IoT gateway** built around the **ESP32-C6 (RISC-V)** platform,
 Optimized for low-power, battery-powered operation and modular expansion, A0 integrates secure communication, local storage, and multiple radio interfaces to serve as a versatile edge gateway in modern IoT ecosystems. While it includes support for Wireless and Wired M-Bus, its primary focus is on broad IoT connectivity and interoperability.
 
 <p align="center">
-  <img src="img/a0.png" alt="A0 Board" width="300"/>
+  <img src="img/a0.webp" alt="A0 Board" width="300"/>
 </p>
 
 ## 🌟 Features

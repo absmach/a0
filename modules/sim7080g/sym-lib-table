@@ -1,5 +1,6 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "SIM-SMD_NANO-SIM")(type "KiCad")(uri "${KIPRJMOD}/modules/SIM-SMD_NANO-SIM.kicad_sym")(options "")(descr ""))
-  (lib (name "SIM7080G")(type "KiCad")(uri "${KIPRJMOD}/modules/SIM7080G.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "SIM-SMD_NANO-SIM") (type "KiCad") (uri "${KIPRJMOD}/modules/SIM-SMD_NANO-SIM.kicad_sym") (options "") (descr ""))
+	(lib (name "SIM7080G") (type "KiCad") (uri "${KIPRJMOD}/modules/SIM7080G.kicad_sym") (options "") (descr ""))
+	(lib (name "C48677") (type "KiCad") (uri "${KIPRJMOD}/modules/C48677.kicad_sym") (options "") (descr ""))
 )
